@@ -15,6 +15,7 @@ observ <- c(
     48, 30, 54, 58, 62, 37
 )
 
+## Nagrinėsime ar duomenys normalūs.
 sample_sd <- sd(observ)
 sample_variance <- var(observ)
 sample_mean <- mean(observ)
