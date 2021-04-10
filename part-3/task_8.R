@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 8. Užduotis
-
+##
 ## Ištirkite automobilio variklio tūrio ir nuvažiuoto automagistralėje
 ## atstumo (su vienodu kiekiu degalų) sąryšį (D. C. Montgomery,
 ## R. C. Runger. Applied Statistics and Probability for Engineers. 3th

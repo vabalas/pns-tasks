@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 9. Užduotis
-
+##
 ## Vėjo greitis matuotas dviem būdais: nuo žemės, iš
 ## palydovo. Matavimai atlikti tam tikrais laiko momentais.
 

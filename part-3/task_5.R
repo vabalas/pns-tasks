@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 5. Užduotis
-
+##
 ## Kuriamas naujas kompiuterių tinklas. Reikalaujama, kad jis būtų
 ## daugiau negu 99% suderintas su jau naudojama įranga. Atlikite
 ## užduotis:

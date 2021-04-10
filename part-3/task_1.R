@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 1. Užduotis
-
+##
 ## Lentelėje pateikti duomenys apie tam tikros medžiagos kiekį 30
 ## mėginių:
 

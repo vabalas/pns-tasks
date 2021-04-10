@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 7. Užduotis
-
+##
 ## Tyrimo tikslas palyginti laiką, kuris reikalingas patikrinti laidų
 ## sujungimus ir izoliaciją dviejų tipų srovės
 ## pertraukikliuose. Pirmoji populiacija susideda iš visų vakuumo tipo

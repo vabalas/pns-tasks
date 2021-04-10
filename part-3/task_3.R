@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 3. Užduotis
-
+##
 ## (Milton J. S., Arnold J. C. Probability and Statistics Engineering
 ## and Computing Sciences. Chapter 7, Exercice 3.)
 

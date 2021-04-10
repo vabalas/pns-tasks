@@ -1,5 +1,10 @@
+## Pastabos. Užduotis atlikite naudodami:
+## a) formules, panaudokite alternatyvius hipotezių tikrinimo metodus
+##    (statistikos realizacija; p reikšmė; pasikliovimo intervalai);
+## b) standartines R funkcijas.
+##
 ## 2. Užduotis
-
+##
 ## Gamybos procesas suderintas, jeigu parametro A standartinis
 ## nuokrypis neviršija 10. Atrinkus 100 gaminių buvo pamatuotos jų
 ## parametro A reikšmės. Ar galite teigti, kad gamybos procesas
